@@ -20,9 +20,11 @@ Customer churn is a major challenge in the telecom industry. In this project:
 - SHAP was used for model explainability  
 - The solution was deployed as a live web application
 
-  📁 Dataset
+## 📁 Dataset
 
-This project uses the IBM Telco Customer Churn Dataset, which contains customer account information, service usage details, and churn labels. The dataset is publicly available and widely used for churn prediction modeling. 
+This project uses the IBM Telco Customer Churn dataset, which contains customer demographic details, service usage information, contract types, billing details, and churn status.
+
+The dataset is publicly available and widely used for churn prediction research and benchmarking.
 
 ## 🧠 Machine Learning Workflow
 
