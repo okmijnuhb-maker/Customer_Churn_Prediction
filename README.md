@@ -1,4 +1,4 @@
-# Customer Churn Prediction – ChurnGuard AI
+# Intelligent Customer Retention System – ChurnGuard AI
 
 This project focuses on predicting telecom customer churn using machine learning. The objective is to identify customers who are likely to leave the service so that businesses can take preventive action and improve retention.
 
