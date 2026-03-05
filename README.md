@@ -4,12 +4,12 @@ This project focuses on predicting telecom customer churn using machine learning
 
 The project covers the complete ML workflow including data preprocessing, model training, evaluation, explainability, dashboard development, and cloud deployment.
 
-## 🚀 Live Application
+##  Live Application
 
 Streamlit Web App:  
 https://customerchurnprediction-ohctytlym3cst3blssgwxf.streamlit.app
 
-## 📊 Project Overview
+##  Project Overview
 
 Customer churn is a major challenge in the telecom industry. In this project:
 
@@ -20,13 +20,13 @@ Customer churn is a major challenge in the telecom industry. In this project:
 - SHAP was used for model explainability  
 - The solution was deployed as a live web application
 
-## 📁 Dataset
+##  Dataset
 
 This project uses the IBM Telco Customer Churn dataset, which contains customer demographic details, service usage information, contract types, billing details, and churn status.
 
 The dataset is publicly available and widely used for churn prediction research and benchmarking.
 
-## 🧠 Machine Learning Workflow
+##  Machine Learning Workflow
 
 1. Data Cleaning and Preprocessing  
 2. Exploratory Data Analysis (EDA)  
@@ -38,14 +38,14 @@ The dataset is publicly available and widely used for churn prediction research 
 8. Streamlit Integration  
 9. Cloud Deployment  
 
-## 📈 Model Performance
+##  Model Performance
 
 - Best Model: Random Forest  
 - ROC-AUC Score: 0.8338  
 - F1 Score: 0.6225  
 - Dataset balanced using SMOTE  
 
-## 🖥 Web Application Features
+##  Web Application Features
 
 - Individual customer churn prediction  
 - Probability score display  
@@ -54,7 +54,7 @@ The dataset is publicly available and widely used for churn prediction research 
 - Model performance and information section  
 - Clean and responsive UI  
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python  
 - Pandas & NumPy  
@@ -68,7 +68,7 @@ The dataset is publicly available and widely used for churn prediction research 
 - GitHub  
 - Streamlit Community Cloud  
 
-## 📂 Project Structure
+##  Project Structure
 Customer_Churn_Prediction/
 ├── app.py
 ├── requirements.txt
@@ -82,7 +82,7 @@ Customer_Churn_Prediction/
 └── Customer_Churn_Project_Report.pdf
 
 
-## 🎯 Business Relevance
+##  Business Relevance
 
 This system helps telecom companies:
 
@@ -91,8 +91,8 @@ This system helps telecom companies:
 - Improve retention strategies  
 - Support data-driven decision making  
 
-## 👤 Author
+## Author
 
 J. Charan Reddy  
 B.Tech – Data Analytics & Machine Learning  
-GitHub: https://github.com/okmjunhb-maker
+
